@@ -1,4 +1,4 @@
-## Hi, I am Code Hadi!
+## Hi, I am  Hadi!
 I am a skilled Web Developer with expertise in MERN and Next.js, focused on building responsive and user-centric web applications.
 ## ⚡️💥🔥 Status 
 </br>
