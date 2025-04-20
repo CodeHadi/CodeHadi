@@ -88,4 +88,4 @@ I am a skilled Web Developer with expertise in MERN and Next.js, focused on buil
 
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/sammorozov/sammorozov/59c7c8b7a883ad54a27102250b44ede726c50740/assets/github-snake.svg)
+![Snake animation](https://github.com/CodeHadi/CodeHadi/blob/output/github-contribution-grid-snake.svg)
